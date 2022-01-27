@@ -1,5 +1,4 @@
 from random_word import RandomWords
-from faker import Faker
 
 def grab_soln():
     r = RandomWords()
